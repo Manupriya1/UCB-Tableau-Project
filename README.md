@@ -59,4 +59,3 @@ In conclusion, Des Moines is a good candidate for starting a rental bike busines
 Also I would like to create more visualization to understand the market better, for example:
 - bike share usage by age groups. 
 - bike share location to help me understand the logistics of inventory anf maintaince. 
-- 
