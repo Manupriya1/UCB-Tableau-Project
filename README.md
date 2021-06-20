@@ -1,5 +1,4 @@
 # UCB-Tableau-Project
-https://public.tableau.com/app/profile/manupriya.sharma/viz/BikeShareinDesMoines_M/Story1
 
 # Overview of the analysis:
 The purpose of the analysis is to check the viability of bike sharing business in Des Moines by analysing data from New York City. 
@@ -10,7 +9,6 @@ I tried to answer the following questions in the analysis:
 - Tripduration by gender
 - Peak rentals hours
 - Peak rental Hours by gender
-- 
 
 # Results:
 The Tableau story can be found => [TABLEAU PUBLIC URL](https://public.tableau.com/app/profile/manupriya.sharma/viz/BikeShareinDesMoines_M/Story1)
